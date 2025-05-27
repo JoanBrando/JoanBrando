@@ -20,7 +20,22 @@ Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Atualmente 
             src="https://custom-icon-badges.demolab.com/github/followers/JoanBrando?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
+    <!--</a>
+        <a href="https://www.linkedin.com/in/SEU_PERFIL_LINKEDIN" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/SEU_PERFIL_INSTAGRAM" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Me siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+</p>-->
 
 ---
 
@@ -49,6 +64,14 @@ Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  
 />
 <img 
     align="left" 
