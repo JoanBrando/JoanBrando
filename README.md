@@ -1,7 +1,8 @@
 ## 👩🏻‍💻 Olá, tudo bem?👋
 <!--
 **JoanBrando/JoanBrando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** 
+**`Desenvolvedor Web`** 
 
 Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Atualmente curso a faculdade de Análise e Desenvolvimento de Sistemas na Instituição Federal de Ciência e Tecnologia da Bahia. Assim como qualquer outro estudante da área, sou apaixonado por tecnologia e busco crescer desenvolvendo, principalmente, projetos visuais sofisticados e atrativos.
 
@@ -39,7 +40,7 @@ Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Atualmente 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias que estou estudando e utilizando
 
 <img 
     align="left" 
