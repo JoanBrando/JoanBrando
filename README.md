@@ -4,7 +4,7 @@
 **`Desenvolvedor FullStack`** 
 **`Desenvolvedor Web`** 
 
-Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Atualmente curso a faculdade de Análise e Desenvolvimento de Sistemas na Instituição Federal de Ciência e Tecnologia da Bahia. Assim como qualquer outro estudante da área, sou apaixonado por tecnologia e busco crescer desenvolvendo, principalmente, projetos visuais sofisticados e atrativos.
+Me chamo Joan Brando, tenho 26 anos e sou natural de Irecê - Bahia. Estou cursando a faculdade de Análise e Desenvolvimento de Sistemas na Instituição Federal de Ciência e Tecnologia da Bahia. Assim como qualquer outro estudante da área, sou apaixonado por tecnologia e busco crescer desenvolvendo, principalmente, projetos visuais sofisticados e atrativos. Atualmente, trabalho com o desenvolvimento de landing pages, mas meu objetivo é me tornar um desenvolvedor web full stack.
 
 <p align="left">
     <a href="https://github.com/JoanBrando?tab=repositories&sort=stargazers">
